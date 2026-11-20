@@ -4,7 +4,8 @@
 **Topic 2 lab:** Time and frequency characterisation of standard dynamic links
 **Student name:** Timur Telibaev
 **Student ID:** 96823
-**Code path:** `/labT2/`
+**Code path:** `/LABT2/`
+**Course repo:** https://github.com/iaminanity/M-408-01-robot-control
 **Date:** 20 November 2026
 
 ---
@@ -168,7 +169,7 @@ Reality-Check 2: RK4 time-domain step response
 
 ![RK4 step response of 64/(s^2+4s+64)](part2_step_rk4.png)
 
-- [x] My code is in `/labT2/` and runs top-to-bottom in MATLAB.
+- [x] My code is in `/LABT2/` and runs top-to-bottom in MATLAB.
 - [x] The numbers in section 3 are copied from the output above.
 - [x] The resonant peak is confirmed by an independent frequency scan.
 - [x] Mp and tp are confirmed by an RK4 simulation.
@@ -177,7 +178,7 @@ Reality-Check 2: RK4 time-domain step response
 
 ## 6. Declaration
 
-I confirm this report and the code at `/labT2/` are my own work; any AI
+I confirm this report and the code at `/LABT2/` are my own work; any AI
 assistance is logged honestly in section 4; and the results in section 3
 are the real output of the code in section 5.
 
